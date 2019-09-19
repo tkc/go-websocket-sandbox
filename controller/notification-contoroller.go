@@ -16,6 +16,6 @@ func NewNotificationContoroller(notificationService interfaces.NotificationServi
 	}
 }
 
-func (c *NotificationController) Register(echo echo.Context) error {
-	return c.notificationService.Register(echo)
+func (c *NotificationController) Register(contex echo.Context) error {
+	return c.notificationService.Register(contex)
 }

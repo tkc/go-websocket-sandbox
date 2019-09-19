@@ -28,25 +28,25 @@ goenv global 1.11.6
 goenv rehash
 ```
 
-## Config
+## Server Config
 
 copy `config.yaml.example` to `config.yaml` and edit params.
 
 ## Commands
 
-### Local Test
+### Test
 
 ```bash
 make test
 ```
 
-### Local Build
+### Build
 
 ```bash
 make build
 ```
 
-### Local Serve
+### Serve
 
 ```bash
 make serve
