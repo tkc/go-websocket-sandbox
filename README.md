@@ -3,7 +3,7 @@
 
 ## TODO
 
-- [ ] Add Paese JWT 
+- [ ] Add Parse JWT 
 - [ ] Add CI setting 
 - [ ] Add Dokcer setting
 - [ ] Change database mysql tp postgresql
