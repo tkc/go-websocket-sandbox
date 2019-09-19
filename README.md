@@ -1,4 +1,4 @@
-# goa-websocket-sandbox
+# websocket-sandbox Clean Architecture 
 
 
 ## TODO
