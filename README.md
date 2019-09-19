@@ -16,7 +16,7 @@
 ### Go
 
 ```bash
-1.11.0 
+1.11.* 
 ```
 
 ### Insrall goenv and change Go version.
