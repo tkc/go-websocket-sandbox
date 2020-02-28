@@ -6,7 +6,6 @@
 - [ ] Add Parse JWT 
 - [ ] Add CI setting 
 - [ ] Add Dokcer setting
-- [ ] Change database mysql tp postgresql
 - [ ] Add error tracker (SENTRY Go)
 - [ ] Implement notification response (REST)
 - [ ] Implement Cloud Server Setting
