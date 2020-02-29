@@ -12,5 +12,5 @@ type Client struct {
 type Event struct {
 	Type    string `json:"Type"`
 	Message string `json:"Message"`
-	Count   int    "json:cunt"
+	Count   int    "json:count"
 }
